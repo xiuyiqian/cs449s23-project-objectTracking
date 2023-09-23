@@ -25,6 +25,8 @@ The goal of this research and experimentation project is to address these challe
 
 6. **Comparison with Baselines:** A comparative analysis of the new algorithms against existing state-of-the-art object tracking methods to highlight their advantages and limitations.
 
+7. **Use OpenAI API:** Use OPENAI LLM to test their efficiency on input videos
+
 ## Expected Outcomes
 
 1. The development of the object detection algorithm.
@@ -33,8 +35,10 @@ The goal of this research and experimentation project is to address these challe
 
 3. Derivative tasks like object Counting, general object classification
 
-4. Comparison of application of the model in different scanries.
+4. Comparison of application of the model in different sceneries.
    
+## DataSet
+
 
 ## Timeline
 
