@@ -38,7 +38,12 @@ The goal of this research and experimentation project is to address these challe
 4. Comparison of application of the model in different sceneries.
    
 ## DataSet
-
+1. COCO (Common Objects in Context): Contains over 330,000 images with over 1.5 million object instances across 80 object categories.
+2. KITTI Vision Benchmark Suite: Contains datasets with annotated objects in urban scenarios, including cars, pedestrians, and cyclists.Focused on autonomous driving and robotics applications.
+3. ImageNet Object Localization Challenge:
+Originally created for object classification, but includes bounding box annotations for object localization.
+Large-scale dataset with millions of labeled images across thousands of categories
+   
 
 ## Timeline
 
