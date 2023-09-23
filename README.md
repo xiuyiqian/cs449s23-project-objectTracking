@@ -17,7 +17,7 @@ The goal of this research and experimentation project is to address these challe
 
 2. **Data Collection:** The acquisition of diverse datasets, including real-world scenarios and challenging conditions, to evaluate the performance of different tracking algorithms rigorously.
 
-3. **Algorithm Development:** The design and implementation of novel object tracking algorithms that address issues like occlusion, non-rigid objects...
+3. **Algorithm Development:** The design and implementation of novel object tracking algorithms and fine-tuning existing models like YOLOv3 that address issues like occlusion, and non-rigid objects...
 
 4. **Experimental Evaluation:** Extensive experimentation and benchmarking of the developed algorithms using the collected datasets to assess their performance against existing methods.
 
