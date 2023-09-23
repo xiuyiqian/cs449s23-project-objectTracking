@@ -9,7 +9,7 @@ Object Tracking in Multiple Scenarios
 
 ## Project Overview
 
-Object tracking is a fundamental component of various applications, such as surveillance, autonomous vehicles, augmented reality, and robotics. It plays a crucial role in enabling these systems to interpret and interact with their environments effectively. However, there are ongoing challenges in object tracking, including issues related to occlusion, scale variation, non-rigid objects, and real-time processing constraints.
+Object tracking is a fundamental component of various applications, such as surveillance, autonomous vehicles, augmented reality, and robotics. It plays a crucial role in enabling these systems to interpret and interact with their environments effectively. For example, Object detection can be applied in many instances like monitoring traffic flow, supermarket self-checkout, or even security systems. However, there are ongoing challenges in object tracking, including issues related to occlusion, scale variation, non-rigid objects, and real-time processing constraints.
 
 The goal of this research and experimentation project is to address these challenges by developing innovative object-tracking techniques that enhance tracking accuracy, robustness, and efficiency. The project will consist of the following key components:
 
@@ -46,6 +46,5 @@ The proposed project will be conducted over a period of [insert estimated durati
 
 - **Month 1:** Literature review, data collection, and algorithm development.
 - **Month 2:** Experimental evaluation, performance metrics, comparison with baselines, data analysis, documentation, and preparation for publication.
-
 
 ## Reference
